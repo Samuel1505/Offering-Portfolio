@@ -6,6 +6,7 @@ import projImg3 from "../assets/img/quickvote.jpg";
 import projImg4 from "../assets/img/vehicle2.jpg";
 import projImg5 from "../assets/img/vehicle3.jpg";
 import projImg6 from "../assets/img/crypto.jpg";
+import projImg7 from "../assets/img/vehicle1.jpg";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -17,22 +18,17 @@ export const Projects = () => {
       title: "Aromae Candle Design",
       description: "This Aromaé website highlights beautiful handmade candles. Visitors can explore products, learn about their quality, read customer reviews, and sign up for updates. The warm design creates a cozy, welcoming feel",
       imgUrl: projImg2,
-       
     },
     {
       title: "Cocktail & Milkshake App",
       description: "This app design shows screens for a cocktail and milkshake ordering app. The main menu lets users browse drinks, the details screen gives info about each drink, and the checkout screen summarizes the order with a final price and checkout button. The vibrant colors and simple layout make it easy to use.",
       imgUrl: projImg1,
-      link: "https://eu.docs.wps.com/l/sIK7ry_DPAe6zyLkG?v=v2",
-      
     },
     
     {
       title: "QuickVote",
       description: "The design of a quickvote spp that user can vote realtime directly through their device ",
       imgUrl: projImg3,
-      link: "https://www.figma.com/design/3iVaV5zg55mxgOheYk7hR7/Design-iii?node-id=298-42&node-type=frame",
-     
     },
     {
       title: "Business Startup",
@@ -40,14 +36,21 @@ export const Projects = () => {
       imgUrl: projImg4,
     },
     {
-      title: "CryptoVendor Design",
-      description: "The CryptoVendor site makes it easy to buy and sell with crypto. Businesses can set up online shops, connect directly with customers, and manage their store smoothly, all without extra fees or middlemen. FAQs and support are available for guidance.",
-      imgUrl: projImg6,
+      title: "Business Startup",
+      description: "Design & Development",
+      imgUrl: projImg7,
     },
+    
     {
       title: "Business Startup",
       description: "Design & Development",
       imgUrl: projImg5,
+    },
+  
+    {
+      title: "CryptoVendor Design",
+      description: "The CryptoVendor site makes it easy to buy and sell with crypto. Businesses can set up online shops, connect directly with customers, and manage their store smoothly, all without extra fees or middlemen. FAQs and support are available for guidance.",
+      imgUrl: projImg6,
     },
     
   ];
