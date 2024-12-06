@@ -26,10 +26,10 @@ app.post('/contact', async (req, res) => {
 
   const mailOptions = {
     from: process.env.EMAIL_USER,
-    to: "olwakoredeakinola@gmail.com", // Your email where you want to receive messages
-    subject: `New Contact Form Submission from ${firstName} ${lastName}`,
+    to: "florencerasaq1@gmail.com", // Your email where you want to receive messages
+    subject: `Portfolio Contact Me Submission from ${firstName} ${lastName}`,
     html: `
-      <h3>Contact Form Submission</h3>
+      <h3>Portfolio Contact Form Submission</h3>
       <p><strong>Name:</strong> ${firstName} ${lastName}</p>
       <p><strong>Email:</strong> ${email}</p>
       <p><strong>Phone:</strong> ${phone}</p>
