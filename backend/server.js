@@ -7,7 +7,7 @@ const app = express();
 
 
 app.use(cors({
-  origin: 'http://localhost:3000' // Your React app's URL
+  origin: 'https://oreoluwa-florence-portfolio.vercel.app/' // Your React app's URL
 }));
 
 app.use(express.json());
