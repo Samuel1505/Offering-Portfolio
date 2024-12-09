@@ -31,19 +31,19 @@ export const Projects = () => {
       imgUrl: projImg3,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Car Rental App",
+      description: "This app design represents a car rental app. The main menu lets users browse cars by brand or availability, the details screen provides information about each car, and the checkout screen summarizes the rental with pricing and a confirmation button. The sleek layout and clean icons make navigation user-friendly.",
       imgUrl: projImg4,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Car Rental App",
+      description: "This app design shows screens for a cocktail and milkshake ordering app. The main menu lets users browse drinks, the details screen gives info about each drink, and the checkout screen summarizes the order with a final price and checkout button. The vibrant colors and simple layout make it easy to use",
       imgUrl: projImg7,
     },
     
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Car Rental App",
+      description: "This app design represents a car rental app. The main menu lets users browse cars by brand or availability, the details screen provides information about each car, and the checkout screen summarizes the rental with pricing and a confirmation button. The sleek layout and clean icons make navigation user-friendly.t",
       imgUrl: projImg5,
     },
   
