@@ -27,7 +27,7 @@ export const Projects = () => {
     
     {
       title: "QuickVote",
-      description: "The design of a quickvote spp that user can vote realtime directly through their device ",
+      description: "This website design shows screens for an online voting platform. The homepage highlights ongoing elections, allows users to connect their wallets, and provides sections for mission, vision, and team information. The simple layout, engaging visuals, and clean navigation make it easy for users to participate and stay informed.",
       imgUrl: projImg3,
     },
     {
@@ -37,7 +37,7 @@ export const Projects = () => {
     },
     {
       title: "Car Rental App",
-      description: "This app design shows screens for a cocktail and milkshake ordering app. The main menu lets users browse drinks, the details screen gives info about each drink, and the checkout screen summarizes the order with a final price and checkout button. The vibrant colors and simple layout make it easy to use",
+      description: "This app design represents a car rental app. The main menu lets users browse cars by brand or availability, the details screen provides information about each car, and the checkout screen summarizes the rental with pricing and a confirmation button. The sleek layout and clean icons make navigation user-friendly.",
       imgUrl: projImg7,
     },
     
